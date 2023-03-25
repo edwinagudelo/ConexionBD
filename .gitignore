@@ -1,0 +1,6 @@
+# Directorios a omitir
+Debug/
+
+# Archivos a omitir
+*.ncb
+*.user
